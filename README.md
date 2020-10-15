@@ -1,6 +1,9 @@
-[![Bluenex's github stats](https://github-readme-stats.bluenex.vercel.app/api?username=bluenex&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-[![Bluenex's wakatime stats](https://github-readme-stats.bluenex.vercel.app/api/wakatime?username=bluenex)](https://github.com/anuraghazra/github-readme-stats)
-[![Bluenex's top langs](https://github-readme-stats.bluenex.vercel.app/api/top-langs/?username=bluenex&count_private=true&show_icons=true&theme=graywhite&hide=openedge%20abl,html)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.bluenex.vercel.app/api?username=bluenex&theme=graywhite&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.bluenex.vercel.app/api/top-langs/?username=bluenex&theme=graywhite&count_private=true&show_icons=true&hide=openedge%20abl,html" />
+</a>
 
 ----
 
