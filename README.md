@@ -1,10 +1,9 @@
 ## About Me
 
 - My name is Tulakan Ruangrong
-- A software engineer with Zoology and Biomedical Engineering background
-- Pave my career path as a React Native developer
-- I like it when trying to digest the question and initiate the communication in between teams
-- Still learning at somewhere along the Dunning–Kruger valley route
+- A software engineer with a background in Zoology and Biomedical Engineering
+- Enjoy trying to understand questions and kick-starting team communication
+- Still on a learning journey, somewhere along the Dunning–Kruger valley route
 
 ## Socials
 
